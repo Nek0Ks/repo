@@ -1,0 +1,91 @@
+Package: com.bandarhl.bhtwitter
+Architecture: iphoneos-arm64
+Version: 4.2-1+debug
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 23840
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.bandarhl.bhtwitter_4.2_iphoneos-arm64.deb
+Size: 8688862
+MD5sum: 16158c79bb4720228b51fa40dc5a8f79
+SHA1: f897271f09fc76f4459c6aa0c5193bc2d5cefc9d
+SHA256: f440e04416325d38d82eef0fadece8f9a104cf666f35aa7937400ecba127e8ef
+SHA512: bbf5d564049a9358620b9404ed1ad71c069b2623efa97875020375ee4cb353693b24dce7f8ad5763e7983196dd8b6a270430d01ec4b4b92335fb94e7d4f79e04
+Description: Awesome tweak for Twitter
+Name: BHTwitter
+Author: Bandar Alruwaili
+
+Package: com.jontelang.bigshotsnapper3plugin
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: Jonathan Winger-lang
+Installed-Size: 536
+Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
+Conflicts: com.jontelang.snapper
+Filename: ./debs/com.jontelang.bigshotsnapper3plugin_1.1_iphoneos-arm64.deb
+Size: 19858
+MD5sum: 6e2e141bc7d799b4b53b61f2a83c101f
+SHA1: 139dd1f7af7701cc4c65e21fc99e52d5cfc3ddae
+SHA256: 7858b27c0bbdf9c4a7950a6b378fdfa1eaa26d999e9dbee3944d707e24d4f947
+SHA512: 911cbbae754606576c58e539fe97f391a33a1de37c13c5ae22de7d2518572333f7c246e1318cc2c3d2dfa794722743df7f543c30845693bfdd3ca9c6559d6ef2
+Description: BigShot for iOS 15/16 (and Snapper 3)
+Name: BigShot for Snapper 3 and CCSupport
+Author: Jonathan Winger-lang
+
+Package: com.sop.settingsrevamp
+Architecture: iphoneos-arm64
+Version: 2.1.1
+Section: Tweaks
+Maintainer: SOPPPra
+Installed-Size: 540
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
+Filename: ./debs/com.sop.settingsrevamp_2.1.1_iphoneos-arm64.deb
+Size: 97462
+MD5sum: 723f96ac6d209a5bed17051c4b5d3abc
+SHA1: 1c0c93ec6c8fcd8a742b11cedcd2488503a22666
+SHA256: 794d98be6ed71f620d307c45c330bce06021d9eb14580ca67f56f4d97f51edb3
+SHA512: a571b2f8bc809b24d5766a2fce85d44b3ac94f693885af5bc8a60d21518fee6d923aa897b886286ad9d6d95772c061220daa1eb569771791d38b7bb7e0d6a293
+Description: Customize the ios settings page
+Name: SettingsRevamp
+Author: SOPPPra
+Icon: https://i.postimg.cc/ry1s499R/icon-3x.png
+Depiction: https://sopppra.mooo.com/depictions/web/com.sop.settingsrevamp.html
+Sileodepiction: https://sopppra.mooo.com/depictions/com.sop.settingsrevamp.json
+
+Package: dev.traurige.kayoko
+Architecture: iphoneos-arm64
+Version: 1.4.2
+Section: Tweaks
+Maintainer: Traurige <hello@traurige.dev>
+Installed-Size: 956
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/dev.traurige.kayoko_1.4.2_iphoneos-arm64.deb
+Size: 79646
+MD5sum: adfae9702c7075f5970ae5bb85720c45
+SHA1: 4069dbd11c7ac784a777140761e9ba55c3f1d66e
+SHA256: a4a2f739ddcd7d53915cb17a05d48a8fb7d5f2be1fa96c3e16faadd1e48aeb2e
+SHA512: 6fcf413369f69a6f5fbcd8ce82e6f13a573e90dfbc1980344a3568a143bf1372908e832af9660fea0c8f2d1d408f9500605506211b64f773f06cb72242d89fcd
+Description: Feature rich clipboard manager for iOS
+Name: Kayoko
+Author: Traurige <hello@traurige.dev>
+
+Package: com.bandarhl.bhtiktok
+Architecture: iphoneos-arm64
+Version: 2.3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 1480
+Depends: mobilesubstrate
+Filename: ./debs/rootless.bhtiktok_2.3_iphoneos-arm64.deb
+Size: 481152
+MD5sum: 990bffab5b01644cb54add45328fa7a1
+SHA1: a229326f24196f037a56cbd8e34d866583e92a04
+SHA256: 0993c3730472bc7979dd760e120b83ad31c3cf2b72a2a6ab93166a3692d25d31
+SHA512: 65c3ff94c0d560e26019e5373dd856db39649f5b53731e555a8041b89e4ad914cebf951e513091fd76e99c4521906cd7c72f16921812f1e1979698c356878746
+Description: An awesome tweak for TikTok!
+Name: BHTikTok Plus
+Author: dvntm
+Icon: https://i.imgur.com/PKIhkrt.png
+
