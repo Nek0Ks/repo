@@ -15,6 +15,25 @@ Description: Awesome tweak for Twitter
 Name: BHTwitter
 Author: Bandar Alruwaili
 
+Package: com.ginsu.ytmusicultimate
+Architecture: iphoneos-arm64
+Version: 2.0
+Section: Tweaks
+Maintainer: Ginsu
+Installed-Size: 26440
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.ginsu.ytmusicultimate_2.0_iphoneos-arm64.deb
+Size: 10228044
+MD5sum: 4bfc44e456144ba058bf55cb7567825c
+SHA1: d88bec6ca4aeb6c7fa82d36136156dd4f556f298
+SHA256: e5137aa2f2d9c30f87c809ebf466c11fb3bbcfec7cca2fd6e63b08992aa5c3c7
+SHA512: 43dca7dca61d79de92e83e84e5ed4821914aba5fb0c17151a0f6b8a1b2079cce86f2bbb3899c24e8c7d9a5daab7fc3c068ecd7d986db155b7202d09f19a97766
+Description: YouTube Music Premium
+Name: YTMusicUltimate
+Author: Ginsu
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/icon.png
+Depiction: https://ginsudev.github.io/repo/depictions/YTMusicUltimate/index.html
+
 Package: com.jontelang.bigshotsnapper3plugin
 Architecture: iphoneos-arm64
 Version: 1.1
